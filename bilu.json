@@ -641,7 +641,7 @@
         "title": "Quiénes somos",
         "imagen": {
             "alt": "Imagen de chatgpt",
-            "src": "/images/amenidades/01_depa_bilu_coworking_amenidades.jpg",
+            "src": "./images/amenidades/01_depa_bilu_coworking_amenidades.jpg",
             "ancho": "180"
         },
         "content": [
