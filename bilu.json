@@ -1,0 +1,665 @@
+{
+    "home": {
+        "title": "INFORMACIÓN GENERAL DEL DESARROLLOs",
+        "video": {
+            "alt": "Video intro",
+            "src": "./video/BILU_TRACK_LQ.mp4"
+        },
+        "global": {
+            "src": "https://jxnglobal.com/vr/saas/bilu/assets/master/",
+            "deepLinks": {
+                "poi": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=2",
+                "types": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=4",
+                "routes": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=3",
+                "location": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=1",
+                "amenities": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=5"
+            }
+        },
+        "content": [
+            {
+                "p": "En <span class='enfasis'>BILÚ</span> encontrarás la armonía de la naturaleza en combinación con una alta responsabilidad de diseño arquitectónico, creando así una atmósfera de bienestar para tu familia."
+            },
+            {
+                "p": "Contamos con 2 torres de 37 niveles y 221 departamentos. <span class='enfasis'>BILÚ</span> fue diseñado cuidadosamente desde el interior para potencializar las vistas, en donde se combinan la armonía de la naturaleza con el diseño arquitectónico. Haciendo énfasis en espacios para compartir con tu familia en una atmósfera de bienestar."
+            },
+            {
+                "p": "Nuestras dos torres se encuentran en uno de los puntos más altos de <span class='enfasis'>Bosque Real</span> y cuenta con la mejor vista de todo el complejo. Cada nivel cuenta solo con 3 departamentos, ideal para generar tu propia esfera de privacidad."
+            },
+            {
+                "p": "Cada departamento tiene un sello de distinción y vanguardia, que crea un ambiente abierto y excepcional que permite la entrada de luz natural y visualización del entorno, con una distribución eficiente para el estilo de vida que tú y tu familia merecen."
+            },
+            {
+                "p": "Preventa desde <span class='enfasis'> $10 MDP</span>."
+            },
+            {
+                "p": "En <span class='enfasis'>BILÚ</span> tenemos departamentos desde 150 hasta 354m² pensados para ti y aquellos que amas. Nuestros departamentos cuentan con un diseño de interiores armónico para brindarte el descanso y bienestar que tanto buscas en un hogar."
+            },
+            {
+                "p": "<span class='enfasis'>BILÚ</span> se establece como un desarrollo de vanguardia y excelencia, cuidadosamente diseñado desde el interior para potencializar las vistas de un entorno único en uno de los puntos más altos de Bosque Real. Cada nivel disfrutará paisajes estelares."
+            }
+        ],
+        "subtitle": "Elevate Wellness – BILÚ es un proyecto residencial único, ubicado en Bosque Real, en el municipio de Huixquilucan, Estado de México."
+    },
+    "items": [
+        {
+            "slug": "tipologia-f",
+            "extras": [
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "En venta",
+                    "atributo": "Enfasis 1"
+                },
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "Me interesa",
+                    "atributo": "Enfasis 2"
+                },
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "16071310",
+                    "atributo": "Precio"
+                },
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "Desde",
+                    "atributo": "subtitle"
+                }
+            ],
+            "global": {
+                "url": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=43",
+                "acciones": {},
+                "elementos": [
+                    {}
+                ]
+            },
+            "titulo": "Departamento Tipología F",
+            "subtitulo": {
+                "icono": {
+                    "nombre": null
+                },
+                "texto": "Privada De Las Pérgolas 7 Bosque Real, Huixquilucan, 52774, México"
+            },
+            "componentes": [
+                {
+                    "tipo": "lista-atributo-valor",
+                    "orden": "",
+                    "titulo": "Detalles de la propiedad",
+                    "elementos": [
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Habitaciones"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Baños"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Estacionamientos"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Terrazas"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "1",
+                            "atributo": "Medio baño"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "230",
+                            "atributo": "Metros cuadrados de construción"
+                        }
+                    ],
+                    "subtitulo": ""
+                },
+                {
+                    "tipo": "lista-atributo",
+                    "orden": "",
+                    "titulo": "Amenidades",
+                    "elementos": [
+                        {
+                            "orden": "",
+                            "atributo": "Asadores"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Casa Club"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Jacuzzi"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Área exterior con juegos infantiles"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Ludoteca"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Spa"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Sauna"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Vapor"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Área para masajes"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Vestidores"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Casilleros"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Gimnasio"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Spinning"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Salón de fiestas"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Salón de adultos"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Sala de juntas"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Salón de usos múltiples"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Business center"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Clases"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Clase de Yoga"
+                        }
+                    ],
+                    "subtitulo": ""
+                },
+                {
+                    "alto": "450",
+                    "tipo": "mapa",
+                    "ancho": "600",
+                    "orden": "",
+                    "titulo": "Ubicación",
+                    "proveedor": "google",
+                    "subtitulo": "",
+                    "iframe_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1058.93156431378!2d-99.29548338934433!3d19.416250775693452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d20519b849f6d7%3A0xb8ddcd3e05cf229c!2sShowroom%20Bil%C3%BA!5e0!3m2!1ses!2smx!4v1696522122081!5m2!1ses!2smx"
+                },
+                {
+                    "tipo": "galeria",
+                    "orden": "",
+                    "titulo": "",
+                    "imagenes": [
+                        {
+                            "alt": "cocina",
+                            "src": "/images/bilu/cocina.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "0",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "jardin",
+                            "src": "/images/bilu/areas-verdes.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "1",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/asadores.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "2",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/bano-de-visitas.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "3",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/bano-habitacion-2.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "4",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/bano-habitacion-3.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "5",
+                            "descripcion": "la descripción"
+                        }
+                    ],
+                    "subtitulo": ""
+                }
+            ],
+            "descripcion": "<p>Este diseño único de 224 m² en Bilú cuenta con un interior de 188m² y una terraza de 36 m². Con vistas exclusivas al Landform, es la opción ideal para quienes buscan una perspectiva terrenal. Este diseño se encuentra en el nivel 2302.</p>"
+        },
+        {
+            "slug": "tipologia-j",
+            "extras": [
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "En venta",
+                    "atributo": "Enfasis 1"
+                },
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "Me interesa",
+                    "atributo": "Enfasis 2"
+                },
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "16071310",
+                    "atributo": "Precio"
+                },
+                {
+                    "link": {
+                        "url": null,
+                        "target": ""
+                    },
+                    "orden": "",
+                    "valor": "Desde",
+                    "atributo": "subtitle"
+                }
+            ],
+            "global": {
+                "url": "https://jxnglobal.com/vr/saas/bilu/assets/master/?skip-loading&media-index=17",
+                "acciones": {},
+                "elementos": [
+                    {}
+                ]
+            },
+            "titulo": "Departamento Tipología J",
+            "subtitulo": {
+                "icono": {
+                    "nombre": null
+                },
+                "texto": "Privada De Las Pérgolas 7 Bosque Real, Huixquilucan, 52774, México"
+            },
+            "componentes": [
+                {
+                    "tipo": "lista-atributo-valor",
+                    "orden": "",
+                    "titulo": "Detalles de la propiedad",
+                    "elementos": [
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Habitaciones"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Baños"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Estacionamientos"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "2",
+                            "atributo": "Terrazas"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "1",
+                            "atributo": "Medio baño"
+                        },
+                        {
+                            "orden": "",
+                            "valor": "230",
+                            "atributo": "Metros cuadrados de construción"
+                        }
+                    ],
+                    "subtitulo": ""
+                },
+                {
+                    "tipo": "lista-atributo",
+                    "orden": "",
+                    "titulo": "Amenidades",
+                    "elementos": [
+                        {
+                            "orden": "",
+                            "atributo": "Asadores"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Casa Club"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Jacuzzi"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Área exterior con juegos infantiles"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Ludoteca"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Spa"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Sauna"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Vapor"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Área para masajes"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Vestidores"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Casilleros"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Gimnasio"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Spinning"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Salón de fiestas"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Salón de adultos"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Sala de juntas"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Salón de usos múltiples"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Business center"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Clases"
+                        },
+                        {
+                            "orden": "",
+                            "atributo": "Clase de Box"
+                        }
+                    ],
+                    "subtitulo": ""
+                },
+                {
+                    "alto": "450",
+                    "tipo": "mapa",
+                    "ancho": "600",
+                    "orden": "",
+                    "titulo": "Ubicación",
+                    "proveedor": "google",
+                    "subtitulo": "",
+                    "iframe_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1058.93156431378!2d-99.29548338934433!3d19.416250775693452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d20519b849f6d7%3A0xb8ddcd3e05cf229c!2sShowroom%20Bil%C3%BA!5e0!3m2!1ses!2smx!4v1696522122081!5m2!1ses!2smx"
+                },
+                {
+                    "tipo": "galeria",
+                    "orden": "",
+                    "titulo": "",
+                    "imagenes": [
+                        {
+                            "alt": "cocina",
+                            "src": "/images/bilu/cocina.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "0",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "jardin",
+                            "src": "/images/bilu/areas-verdes.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "1",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/asadores.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "2",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/bano-de-visitas.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "3",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/bano-habitacion-2.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "4",
+                            "descripcion": "la descripción"
+                        },
+                        {
+                            "alt": "baño",
+                            "src": "/images/bilu/bano-habitacion-3.webp",
+                            "alto": "100",
+                            "ancho": "300",
+                            "orden": "5",
+                            "descripcion": "la descripción"
+                        }
+                    ],
+                    "subtitulo": ""
+                }
+            ],
+            "descripcion": "<p>Este diseño único de 224 m² en Bilú cuenta con un interior de 188m² y una terraza de 36 m². Con vistas exclusivas al Landform, es la opción ideal para quienes buscan una perspectiva terrenal. Este diseño se encuentra en el nivel 2302.</p>"
+        }
+    ],
+    "layout": {
+        "footer": {
+            "logo": {
+                "ruta": "index.html",
+                "imagen": {
+                    "alt": "este es el texto alternativo",
+                    "src": "/images/01_img_logo.svg",
+                    "alto": "80",
+                    "ancho": "69"
+                }
+            },
+            "copyright": "2023 © Jaxon Media Group. Todos los derechos reservados",
+            "powered_by": "Powered by Jaxon Global Access",
+            "redes_sociales": [
+                {}
+            ]
+        },
+        "header": {
+            "logo": {
+                "ruta": "index.html",
+                "imagen": {
+                    "alt": "este es el texto alternativo",
+                    "src": "/images/01_img_logo.svg",
+                    "alto": "100",
+                    "ancho": "300"
+                }
+            },
+            "menu": {
+                "elementos": [
+                    {
+                        "orden": "0",
+                        "etiqueta": "QUIÉNES SOMOS",
+                        "ruta_destino": "/quienes-somos",
+                        "sub_elementos": []
+                    },
+                    {
+                        "orden": "1",
+                        "etiqueta": "TIPOLOGÍAS",
+                        "ruta_destino": "/?section=types",
+                        "sub_elementos": [
+                            {
+                                "orden": "0",
+                                "etiqueta": "TIPOLOGíA F",
+                                "ruta_destino": "/item/tipologia-f",
+                                "sub_elementos": []
+                            },
+                            {
+                                "orden": "1",
+                                "etiqueta": "TIPOLOGíA J",
+                                "ruta_destino": "/item/tipologia-j",
+                                "sub_elementos": []
+                            }
+                        ]
+                    },
+                    {
+                        "orden": "2",
+                        "etiqueta": "Amenidades",
+                        "ruta_destino": "/?section=amenities",
+                        "sub_elementos": []
+                    },
+                    {
+                        "orden": "3",
+                        "etiqueta": "UBICACIÓN",
+                        "ruta_destino": "/?section=location",
+                        "sub_elementos": [
+                            {
+                                "orden": "0",
+                                "etiqueta": "VIALIDADES",
+                                "ruta_destino": "/?section=routes",
+                                "sub_elementos": []
+                            },
+                            {
+                                "orden": "1",
+                                "etiqueta": "SITIOS DE INTERÉS",
+                                "ruta_destino": "/?section=poi",
+                                "sub_elementos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "chagpt": {
+                "imagen": {
+                    "alt": "Imagen de chatgpt",
+                    "src": "/images/common/01_svg_chat_header.svg",
+                    "ancho": "180"
+                }
+            }
+        },
+        "chatbot": "",
+        "metadata": {
+            "title": "SaaS Bilú",
+            "description": "Descripción ... "
+        }
+    },
+    "quienesSomos": {
+        "title": "Quiénes somos",
+        "imagen": {
+            "alt": "Imagen de chatgpt",
+            "src": "/images/amenidades/01_depa_bilu_coworking_amenidades.jpg",
+            "ancho": "180"
+        },
+        "content": [
+            {
+                "p": "Bilú, una insignia de Altius Group, representa <span class='enfasis'>la armonía perfecta entre diseño, innovación y vida.</span> Desde nuestros comienzos en 2008, en cada rincón de América donde hemos dejado nuestra huella, Bilú ha sido sinónimo de espacios pensados para el disfrute, donde cada detalle refleja nuestra pasión por construir el futuro."
+            },
+            {
+                "p": " No solo diseñamos estructuras; en Bilú, construimos sueños, visiones y comunidades. Cada proyecto es una amalgama de cultura, historia y compromiso. Inspirados en las mejores prácticas internacionales y con una adaptación magistral a las realidades locales, cada desarrollo de Bilú es testimonio de innovación, dinamismo, confiabilidad y pasión."
+            },
+            {
+                "p": " Aunque formamos parte de un grupo presente en México, Panamá, Paraguay, Uruguay y Estados Unidos, Bilú tiene su propia esencia y carácter. Nos esforzamos por ir más allá de lo convencional, buscando siempre agregar valor, calidad y calidez a cada espacio que tocamos."
+            },
+            {
+                "p": " Más allá de la infraestructura, somos un equipo de profesionales apasionados que visualizan el estilo de vida del futuro. Nuestra misión va de la mano con el respaldo y la visión de Altius Group y socios estratégicos como Peninsula Investments Group, <span class='enfasis'>líderes en el desarrollo inmobiliario de Latinoamérica</span>."
+            }
+        ],
+        "subtitle": "En el corazón de cada rincón de América, donde la arquitectura se fusiona con la vida y el arte cohabita con la naturaleza, surge una visión: Construir el futuro. Esta es la esencia de Altius Group."
+    },
+    "avisoPrivacidad": {},
+    "terminosCondiciones": {}
+}
