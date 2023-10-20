@@ -548,7 +548,7 @@
                 "ruta": "index.html",
                 "imagen": {
                     "alt": "este es el texto alternativo",
-                    "src": "/images/01_img_logo.svg",
+                    "src": "/images/common/GGlogo_blanco.svg",
                     "alto": "80",
                     "ancho": "69"
                 }
@@ -564,7 +564,7 @@
                 "ruta": "index.html",
                 "imagen": {
                     "alt": "este es el texto alternativo",
-                    "src": "/images/01_img_logo.svg",
+                    "src": "images/common/GGlogo_blanco.svg",
                     "alto": "100",
                     "ancho": "300"
                 }
